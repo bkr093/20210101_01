@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Sobre nuestra empresa
+description: La descripción aqui
+bg_image: images/monitors nyan cat wallpaper by justjanek customization wallpaper.png
+
 ---
