@@ -1,11 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/R03_Mesa de trabajo 3.png
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Le presentamos a <br/> su futura oficina de ingeniería
+  content: Nos motiva el trbajo bien hecho, y la satisfacción de los clientes, al
+    conseguir los objetivos propuestos.
   button:
     enable: true
     label: Discover Our Project
