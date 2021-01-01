@@ -8,13 +8,13 @@ about:
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
   button:
-    enable: true
-    label: Download Company Profile
+    enable: false
+    label: Aqui nuestra tarjeta de visita
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
+    name: Años de experiendcia
+    count: "40"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
     count: "35000"
