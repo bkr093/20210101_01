@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: images/R03_Mesa de trabajo 3.png
   bg_overlay: true
-  title: Le presentamos a <br/> su futura oficina de ingeniería
-  content: Nos motiva el trbajo bien hecho, y la satisfacción de los clientes, al
+  title: Le presentamos a su futura <br/> oficina de ingeniería
+  content: Nos motiva el trabajo bien hecho, y la satisfacción de los clientes, al
     conseguir los objetivos propuestos.
   button:
     enable: true
