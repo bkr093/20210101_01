@@ -1,6 +1,6 @@
 ---
 about:
-  enable: false
+  enable: true
   image: images/BKR_GRIS.png
   title: "¿Quienes somos?"
   content: |-
